@@ -23,7 +23,7 @@ class change{
     public:
     change(){
         money = 0;
-        debit = 0;
+        // debit = 0;
     }
 
     change(int money){
